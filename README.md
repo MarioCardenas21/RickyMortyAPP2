@@ -5,7 +5,7 @@ Permite:
 -  Buscar personajes por nombre
 -  Filtrar por especie (raza)
 -  Filtrar por estado (vivo, muerto o desconocido)
--  Ver 10 resultados por página con navegación
+-  Ver 20 resultados por página con navegación
 -  Animaciones fluidas y diseño dinámico
 
 ---
